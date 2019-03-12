@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 26 17:26:09 GMT+01:00 2018:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): Instanz a816c00e-0161-d2ef-88fd-0000038bf988
+für Datenbankverzeichnis D:\Development\Projects\PMT\database mit Class Loader sun.misc.Launcher$AppClassLoader@2a139a55
+Geladen aus file:/C:/Program%20Files%20(x86)/Java/jdk1.8.0_121/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=D:\Development\Projects\PMT
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
